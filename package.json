@@ -1,0 +1,17 @@
+{
+  "name": "benchmark-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "./scripts/start.sh"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  },
+  "devDependencies": {
+    "@iunu-inc/code-style": "^0.0.12"
+  }
+}
